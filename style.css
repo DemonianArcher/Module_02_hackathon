@@ -7,8 +7,9 @@
 }
 
 .header {
-	text-align: center;
+	align-items: center;
 	width: 300px;
+	margin-left: 45%;
 }
 
 .column {
@@ -40,25 +41,25 @@
 
 p {
 	text-align: justify;
-	padding: 2%;
-	width: 75%;
+	padding-top: 2%;
+	padding-left: 5%;
+	width: 90%;
 }
 
 .overview {
 	background: #f4f4f4;
 	border-radius: 10px;
-	box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+	box-shadow: 0px 2px 2px rgba(0,0,0,0.08);
+	position: relative;
+	left: 20%;
 	padding: 1px;
 	align-items: center;
-	width: 50%;
+	width: 60%;
 }
 
 @media (max-width: 700px) {
 	.summary-container {
 		flex-direction: column;
-		align-items: center;
-	}
-	.header {
 		align-items: center;
 	}
 	.column {
