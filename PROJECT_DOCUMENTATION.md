@@ -22,4 +22,4 @@
 
 ### Keith:
 
-- Handled [specific sections], covering [specific topics or features].
+- Worked on the Post-Game Overview.
