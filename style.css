@@ -6,6 +6,11 @@
 	padding: 2rem;
 }
 
+.header {
+	text-align: center;
+	width: 300px;
+}
+
 .column {
 	background: #f4f4f4;
 	border-radius: 8px;
@@ -38,8 +43,14 @@
 		flex-direction: column;
 		align-items: center;
 	}
+	.header {
+		align-items: center;
+	}
 	.column {
 		width: 90%;
 		margin-bottom: 1.5rem;
+	}
+	.overview {
+		width: 50%;
 	}
 }
