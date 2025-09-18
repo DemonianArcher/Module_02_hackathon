@@ -22,4 +22,4 @@ The purpose of this mini hackathon is to encourage collaboration and practical a
 
 ### Keith
 
-Handled summary of the page.
+- Worked on the Post-Game Overview.
