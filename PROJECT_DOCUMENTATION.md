@@ -14,7 +14,7 @@ The purpose of this mini hackathon is to encourage collaboration and practical a
 
 ### Avery:
 
-- Worked on [specific elements] of the webpage.
+Worked on the HTML concept of the page, focusing on center UI.
 
 ### Ralph:
 
@@ -22,4 +22,4 @@ The purpose of this mini hackathon is to encourage collaboration and practical a
 
 ### Keith:
 
-- Handled [specific sections], covering [specific topics or features].
+Handled summary of the page.
