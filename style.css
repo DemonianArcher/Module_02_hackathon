@@ -73,7 +73,7 @@ p {
     grid-template-columns: repeat(auto-fit, minmax(100px, 2fr));
     gap: .5rem;
     padding: .5rem;
-    position: static;  
+    position: fixed;  
     top: 0;
     left: 0.5;
     width: 100%;  
@@ -99,7 +99,7 @@ p {
   color: seashell; 
   text-align: center;       
   padding: .05rem;            
-  position: static;       
+  position: fixed;       
   bottom: 0;
   left: 0;
   width: 100%;              
