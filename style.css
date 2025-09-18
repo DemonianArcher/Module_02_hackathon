@@ -67,3 +67,46 @@ p {
 		margin-bottom: 1.5rem;
 	}
 }
+
+.grid-section {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(100px, 2fr));
+    gap: .5rem;
+    padding: .5rem;
+    position: fixed;  
+    top: 0;
+    left: 0.5;
+    width: 100%;  
+}
+
+.grid-item {
+    background: rgb(110, 239, 245);    
+    padding: 1rem;
+    text-align: center;
+    border-radius: 2px;    
+    font-weight: bold;
+	font-size: large;
+    cursor: pointer;
+    transition: transform 0.2s ease, background 0.2s ease;
+}
+
+.grid-item:hover {
+    background: #fdb6c5; 
+    transform: scale(1.05);
+}
+
+.footer {
+  color: seashell;              /* white text */
+  text-align: center;       /* center the text */
+  padding: .05rem;            
+  position: fixed;       
+  bottom: 0;
+  left: 0;
+  width: 100%;              
+}
+
+
+body {
+    margin: 0;
+    padding-top: 50px; 
+}

@@ -2,24 +2,24 @@
 
 ## Project Overview
 
-[Provide a brief summary of the project, including the theme and objectives.]
+The purpose of this mini hackathon is to encourage collaboration and practical application of the CSS concepts learned in Module 02. You will work in randomly assigned groups to create a small project based on the given theme within the allocated class time.
 
-## Team Members:
+## Team Members
 
 - Avery
 - Ralph
 - Keith
 
-## Member Contributions:
+## Member Contributions
 
-### Avery:
+### Avery
 
-- Worked on [specific elements] of the webpage.
+- Created repository and initial templating.
 
-### Ralph:
+### Ralph
 
-- Was responsible for [specific tasks], focusing on [specific HTML elements].
+- Was responsible for Back ground styling. ensuring that background design is centered and not conflicted with other designs.
 
-### Keith:
+### Keith
 
 - Worked on the Post-Game Overview.
