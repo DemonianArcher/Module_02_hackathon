@@ -4,22 +4,22 @@
 
 [Provide a brief summary of the project, including the theme and objectives.]
 
-## Team Members:
+## Team Members
 
 - Avery
 - Ralph
 - Keith
 
-## Member Contributions:
+## Member Contributions
 
-### Avery:
+### Avery
 
-- Worked on [specific elements] of the webpage.
+- Created repository and initial templating.
 
-### Ralph:
+### Ralph
 
 - Was responsible for [specific tasks], focusing on [specific HTML elements].
 
-### Keith:
+### Keith
 
 - Handled [specific sections], covering [specific topics or features].
