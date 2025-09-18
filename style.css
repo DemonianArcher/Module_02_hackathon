@@ -71,6 +71,16 @@
     transform: scale(1.05);
 }
 
+.footer {
+  color: seashell;              /* white text */
+  text-align: center;       /* center the text */
+  padding: .05rem;            
+  position: fixed;       
+  bottom: 0;
+  left: 0;
+  width: 100%;              
+}
+
 
 body {
     margin: 0;
