@@ -72,8 +72,8 @@
 }
 
 .footer {
-  color: seashell;              /* white text */
-  text-align: center;       /* center the text */
+  color: seashell; 
+  text-align: center;       
   padding: .05rem;            
   position: fixed;       
   bottom: 0;
