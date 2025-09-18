@@ -18,7 +18,7 @@ The purpose of this mini hackathon is to encourage collaboration and practical a
 
 ### Ralph:
 
-- Was responsible for [specific tasks], focusing on [specific HTML elements].
+- Was responsible for Back ground styling. ensuring that background design is centered and not conflicted with other designs.
 
 ### Keith:
 
